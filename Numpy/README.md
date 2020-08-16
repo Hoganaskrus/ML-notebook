@@ -7,3 +7,13 @@
 * Matlab-esque boolean masking and operation
 
 **Nympy-2 Sorting and structure**
+* Sorting Arrays
+* Partitioning
+* Structured Arrays
+* What's next?
+
+**Numpy-3 Linear Algebra**
+* Matrix and vector products
+* Package Linalg operations
+
+**Scipy-1 Intro**
