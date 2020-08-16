@@ -8,6 +8,7 @@ Will not go through the mathematical derivations, if not necessary or something 
 **Resources and good repos**
 
 General data science - https://github.com/donnemartin/data-science-ipython-notebooks
+
 Basic TensorFlow/PyTorch - https://github.com/madewithml/basics
 
 **Content**
