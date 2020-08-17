@@ -12,7 +12,7 @@
 * Structured Arrays
 * What's next?
 
-**Numpy-3 Linear Algebra and such**
+**Numpy-3 Linear algebra and such**
 * Matrix and vector products
 * Package Linalg operations
 * Fourier
@@ -20,3 +20,8 @@
 * Statistics
 
 **Scipy-1 Intro**
+* What does scipy gives us
+* Some supbackages that we are already used to
+* Interpolation
+
+**Scipy-2 Integrate, optimize and statistics**
