@@ -12,8 +12,11 @@
 * Structured Arrays
 * What's next?
 
-**Numpy-3 Linear Algebra**
+**Numpy-3 Linear Algebra and such**
 * Matrix and vector products
 * Package Linalg operations
+* Fourier
+* Functional programming
+* Statistics
 
 **Scipy-1 Intro**
