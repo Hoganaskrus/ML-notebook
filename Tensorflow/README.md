@@ -1,27 +1,18 @@
-**Numpy-1 Intro**
-* Why should one use numpy arrays instead of python list
-* Introduce dtype in python and initialization of arrays
-* Element wise operation (ufunc) and broadcasting
-* Some nice operation
-* Reshaping and concatenating
-* Matlab-esque boolean masking and operation
+**Tensorflow-1 Intro**
 
-**Numpy-2 Sorting and structure**
-* Sorting Arrays
-* Partitioning
-* Structured Arrays
-* What's next?
+**Tensorflow-2 Utilities,data Management**
 
-**Numpy-3 Linear algebra and such**
-* Matrix and vector products
-* Package Linalg operations
-* Fourier
-* Functional programming
-* Statistics
+**Tensorflow-3 Model,layers,training**
 
-**Scipy-1 Intro**
-* What does scipy gives us
-* Some supbackages that we are already used to
-* Interpolation
+**Tensorflow-4 Regression**
 
-**Scipy-2 Integrate, optimize and statistics**
+**Tensorflow-5 Classification**
+
+**Tensorflow-6 Clustering**
+
+**Tensorflow-7 NN - Supervised**
+
+**Tensorflow-8 RNN - Supervised**
+
+**Tensorflow-9 NN - Unsupervised**
+
