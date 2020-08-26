@@ -2,6 +2,7 @@
 - Bacics
 - Operations
 - Session
+- Quick example
 
 **Tensorflow-2 Utilities,data Management**
 
