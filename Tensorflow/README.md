@@ -1,4 +1,7 @@
 **Tensorflow-1 Intro**
+- Bacics
+- Operations
+- Session
 
 **Tensorflow-2 Utilities,data Management**
 
