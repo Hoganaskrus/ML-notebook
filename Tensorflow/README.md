@@ -5,6 +5,13 @@
 - Quick example
 
 **Tensorflow-2 Utilities,data Management**
+- Save and load models
+- Load dataset
+- Data pipline
+- TFRecord
+- Image Transformation
+- Tensorboard
+- Accelerators
 
 **Tensorflow-3 Introduction to graphs and functions**
 
