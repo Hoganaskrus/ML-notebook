@@ -14,8 +14,15 @@
 - Accelerators
 
 **Tensorflow-3 Introduction to graphs and functions**
+- Before eager execution 
+- Graphs & tf.function
+- Tracing
+- AutoGraph Transformations
 
 **Tensorflow-4 Model,layers,training**
+- Keras Sequential, functional API
+- Custom model & layers
+- Training loop
 
 **Tensorflow-5 Regression**
 
