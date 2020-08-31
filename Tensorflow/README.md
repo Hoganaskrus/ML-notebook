@@ -25,6 +25,8 @@
 - Training loop
 
 **Tensorflow-5 Regression**
+- Logistic Regression
+- Basic model overview 
 
 **Tensorflow-6 Classification**
 
