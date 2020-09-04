@@ -21,8 +21,9 @@
 
 **Tensorflow-4 Model, layers, training**
 - Keras Sequential, functional API
-- Custom model & layers
+- Custom model & layers - subclassing
 - Training loop
+- Custom training loop & loss function
 
 **Tensorflow-5 Regression**
 - Logistic Regression
