@@ -4,7 +4,7 @@
 - Automatic differentiation
 - Quick example
 
-**Tensorflow-2 Utilities,data Management**
+**Tensorflow-2 Utilities, data management**
 - Save and load models
 - Load dataset
 - Data pipline
@@ -19,7 +19,7 @@
 - Tracing
 - AutoGraph Transformations
 
-**Tensorflow-4 Model,layers,training**
+**Tensorflow-4 Model, layers, training**
 - Keras Sequential, functional API
 - Custom model & layers
 - Training loop
