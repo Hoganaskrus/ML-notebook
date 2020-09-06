@@ -30,6 +30,11 @@
 - Basic model overview 
 
 **Tensorflow-6 Classification**
+- Image
+- CNN
+- ResNet
+- NLP
+- Text Classification
 
 **Tensorflow-7 Clustering**
 
